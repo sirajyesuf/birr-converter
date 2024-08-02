@@ -1,10 +1,9 @@
-import { Button } from './components/ui/button'
-
+import Appbar from './components/appbar'
 function App() {
 
   return (
     <>
-    <Button>Click me</Button>
+    <Appbar/>
     </>
   )
 }
